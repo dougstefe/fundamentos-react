@@ -1,0 +1,4 @@
+table.products{width: 100%;}
+table.products th {background-color: #AAA;}
+table.products tr {background-color: #DDD;}
+table.products tr.odd {background-color: #EEE;}

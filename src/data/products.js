@@ -1,0 +1,17 @@
+export default [
+    {id: 1, name: "SSD", price: (100 + (1000 - 100) * Math.random()).toFixed(2)},
+    {id: 2, name: "Processador", price: (100 + (1000 - 100) * Math.random()).toFixed(2)},
+    {id: 3, name: "Placa Mãe", price: (100 + (1000 - 100) * Math.random()).toFixed(2)},
+    {id: 4, name: "Gabinete", price: (100 + (500 - 100) * Math.random()).toFixed(2)},
+    {id: 5, name: "Placa de vídeo", price: (1000 + (5000 - 1000) * Math.random()).toFixed(2)},
+    {id: 6, name: "Cooler", price: (100 + (200 - 100) * Math.random()).toFixed(2)},
+    {id: 7, name: "Teclado", price: (100 + (500 - 100) * Math.random()).toFixed(2)},
+    {id: 8, name: "Mouse", price: (100 + (500 - 100) * Math.random()).toFixed(2)},
+    {id: 9, name: "Monitor", price: (800 + (5000 - 800) * Math.random()).toFixed(2)},
+    {id: 10, name: "Mouse Pad", price: (20 + (100 - 20) * Math.random()).toFixed(2)},
+    {id: 11, name: "Fonte", price: (100 + (1000 - 100) * Math.random()).toFixed(2)},
+    {id: 12, name: "Memória", price: (100 + (1000 - 100) * Math.random()).toFixed(2)},
+    {id: 13, name: "Caixa de som", price: (100 + (1000 - 100) * Math.random()).toFixed(2)},
+    {id: 14, name: "Headphone", price: (100 + (1000 - 100) * Math.random()).toFixed(2)},
+    {id: 15, name: "HD", price: (100 + (1000 - 100) * Math.random()).toFixed(2)},
+]
